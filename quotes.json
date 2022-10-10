@@ -119,10 +119,12 @@
         "writer": "Ralph Waldo Emerson"
         
     },
-    
+     {
+        "quote":"Make each day your masterpiece",
+        "writer": "John Wooden"
+    },
     {
         "quote":"Every moment is a fresh beginning",
-        "writer": "T.S. Eliot"
-        
+        "writer": "T.S. Eliot"        
     },
 ]
