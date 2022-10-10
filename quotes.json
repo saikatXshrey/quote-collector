@@ -107,5 +107,32 @@
         "quote": "The things that make me different are the things that make me",
         "writer": "Winnie the Pooh, A.A. Milne"
         
-    }    
+    },
+     {
+        "quote":"Life is a flower of which love is the honey.",
+        "writer": "Victor Hugo"
+        
+    },
+     {
+        "quote":"Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship",
+        "writer": "Buddha"
+        
+    },
+    {
+        "quote":"Life would be tragic if it weren’t funny",
+        "writer": "Stephen Hawking"
+    },
+      {
+        "quote":"Live in the sunshine, swim the sea, drink the wild air",
+        "writer": "Ralph Waldo Emerson"
+        
+    },
+     {
+        "quote":"Make each day your masterpiece",
+        "writer": "John Wooden"
+    },
+    {
+        "quote":"Every moment is a fresh beginning",
+        "writer": "T.S. Eliot"        
+    },
 ]
