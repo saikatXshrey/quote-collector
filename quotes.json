@@ -78,12 +78,14 @@
         "quote":"You only live once, but if you do it right, once is enough",
         "writer": "Mae West"
         
-    }, 
+    },
     {
         "quote":"Not how long, but how well you have lived is the main thing",
         "writer": "Seneca"
         
-    }, 
-  
-   
+    },    
+    {
+        "quote":"Never let the fear of striking out keep you from playing the game",
+        "writer": "Babe Ruth"
+    },
 ]
