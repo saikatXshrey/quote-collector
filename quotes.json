@@ -238,8 +238,12 @@
         "quote":"A room without books is like a body without a soul.",
         "writer":"Marcus Tullius Cicero"
     },
-    {
-        "quote":"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.
-    "writer":"H. Jackson Brown Jr., P.S. I Love You"
+     {
+        "quote":"You only live once, but if you do it right, once is enough.",
+        "writer":" Mae West"
+    },
+     {
+        "quote":"It is better to be hated for what you are than to be loved for what you are not.",
+        "writer":"Andre Gide, Autumn Leaves"
     },
 ]
