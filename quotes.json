@@ -291,6 +291,10 @@
         "writer": "Marilyn Monroe"        
     },
     {
+        "quote":"Many of life's failures are people who did not realize how close they were to success when they gave up.",
+        "writer": "Thomas A. Edison"        
+    ],
+    {
         "quote":"Life is either a daring adventure or nothing at all.",
         "writer": "Helen Keller"        
     },
@@ -300,6 +304,6 @@
     },
     {
         "quote":"Life is trying things to see if they work.",
-        "writer": "Ray Bradbury"        
+        "writer": "Ray Bradbury"
     },
 ]
